@@ -32,7 +32,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p >
-<a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

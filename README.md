@@ -27,21 +27,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
- 
-<a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/--Nishitha Makam?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-nishithamakam23@gmail.com-?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-@nishitha.23?style=flat&logo=Instagram&logoColor=white"/></a>
- 
+<a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>

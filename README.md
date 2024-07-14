@@ -7,6 +7,7 @@
 
 💡 &nbsp;I am a highly motivated and inquisitive student with a strong aptitude for learning and adapting to new technologies.\
 🎓 &nbsp;I'm an undergraduate student currently studying Computer Science at G. Narayanamma Institute of Technology and Science.
+📫 How to reach me nishithamakam23@gmail.com
  
 
  

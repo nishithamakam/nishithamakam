@@ -5,8 +5,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a highly motivated and inquisitive student with a strong aptitude for learning and adapting to new technologies.\
-🎓 &nbsp;I'm an undergraduate student currently studying Computer Science at G. Narayanamma Institute of Technology and Science.
+💡 &nbsp;I am a highly motivated and inquisitive student with a strong aptitude for learning and adapting to new technologies.
+🎓 &nbsp;I graduated in Computer Science from G. Narayanamma Institute of Technology and Science.
+🖥 &nbsp;I currently work as an Associate Software Engineer at Bristol Myers Squibb.
 
 📫 How to reach me nishithamakam23@gmail.com
  

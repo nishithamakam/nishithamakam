@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://nishithamakam.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-6E5494?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -25,6 +26,7 @@
 - 🤖 &nbsp;Working on **LLM-powered applications**, **RAG (Retrieval-Augmented Generation)** pipelines, and **multi-agent systems**
 - 🌱 &nbsp;Currently exploring agent orchestration, prompt engineering, and evaluation of GenAI systems
 - 💬 &nbsp;Ask me about anything — I'm always happy to help and learn together!
+- 🌐 &nbsp;Check out my portfolio: **[nishithamakam.github.io/Portfolio](https://nishithamakam.github.io/Portfolio/)**
 - 📫 &nbsp;How to reach me: **nishithamakam23@gmail.com**
 
 ---
@@ -66,10 +68,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
+ 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
+  <a href="https://nishithamakam.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-6E5494?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nishithamakam1209"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:nishithamakam23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/nishitha.23/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
